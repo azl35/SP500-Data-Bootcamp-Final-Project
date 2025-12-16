@@ -1,1 +1,1 @@
-For this project, I wanted to create a model to predict S&P 500's closing price both 15 days and 1 year later. Using data from the yfinance api, I created 3 models: A linear model and sequential model to predict 15 days later and a polynomial model to predicy 1 year later. 
+For this project, I wanted to create a model to predict S&P 500's closing price both 15 days and 1 year later. Using data from the yfinance api, I created 3 models: A linear model and sequential model to predict 15 days later and a polynomial model to predict 1 year later. 
